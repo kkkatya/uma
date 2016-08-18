@@ -111,24 +111,12 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
                 <div class=\"nav-menu singlepage-nav\">
                     <ul class=\"nav-menu-inner\">
                         <li>
-                            <a class=\"\" href=\"#intro\">Home</a>
-                        </li>
-                        <li>
                             <a class=\"\" href=\"#about\">About</a>
 
                         </li>
                         <li>
-                            <a class=\"\" href=\"#work\">Work</a>
+                            <a class=\"\" href=\"#portfolio\">Portfolio</a>
 
-                        </li>
-                        <li>
-                            <a class=\"\" href=\"#service\">Service</a>
-                        </li>
-                        <li>
-                            <a class=\"\" href=\"#blog\">News</a>
-                        </li>
-                        <li>
-                            <a class=\"\" href=\"#pricing\">Pricing</a>
                         </li>
                         <li>
                             <a class=\"\" href=\"#contact-section\">Contact</a>
@@ -141,101 +129,101 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
         </header>
     
     ";
-        // line 89
+        // line 77
         echo $this->env->getExtension('CMS')->pageFunction();
-        // line 90
+        // line 78
         echo "    
     <script src=\"";
-        // line 91
+        // line 79
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/jquery-1.11.2.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 92
+        // line 80
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.easing.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 93
+        // line 81
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/jquery-ui.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 94
+        // line 82
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/bootstrap.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 95
+        // line 83
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.flexslider.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 96
+        // line 84
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.fitvids.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 97
+        // line 85
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.viewportchecker.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 98
+        // line 86
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.stellar.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 99
+        // line 87
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/wow.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 100
+        // line 88
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.colorbox-min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 101
+        // line 89
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/owl.carousel.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 102
+        // line 90
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/isotope.pkgd.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 103
+        // line 91
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/masonry.pkgd.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 104
+        // line 92
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/imagesloaded.pkgd.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 105
+        // line 93
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.fs.tipper.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 106
+        // line 94
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/mediaelement-and-player.min.js");
         echo "\"></script>
     <script src=\"";
-        // line 107
+        // line 95
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.validate.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 108
+        // line 96
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/theme.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 109
+        // line 97
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/sidebar-menu.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 110
+        // line 98
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/navigation.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 111
+        // line 99
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.singlePageNav.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 112
+        // line 100
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/contact-form.js");
         echo "\" type=\"text/javascript\"></script>
     <script type=\"text/javascript\" src=\"https://maps.googleapis.com/maps/api/js?sensor=false\"></script>
     <script type=\"text/javascript\" src=\"";
-        // line 114
+        // line 102
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/map.js");
         echo "\"></script>
 
@@ -275,7 +263,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 
     public function getDebugInfo()
     {
-        return array (  239 => 114,  234 => 112,  230 => 111,  226 => 110,  222 => 109,  218 => 108,  214 => 107,  210 => 106,  206 => 105,  202 => 104,  198 => 103,  194 => 102,  190 => 101,  186 => 100,  182 => 99,  178 => 98,  174 => 97,  170 => 96,  166 => 95,  162 => 94,  158 => 93,  154 => 92,  150 => 91,  147 => 90,  145 => 89,  102 => 49,  98 => 48,  71 => 24,  67 => 23,  63 => 22,  59 => 21,  55 => 20,  51 => 19,  47 => 18,  41 => 15,  37 => 14,  33 => 13,  19 => 1,);
+        return array (  227 => 102,  222 => 100,  218 => 99,  214 => 98,  210 => 97,  206 => 96,  202 => 95,  198 => 94,  194 => 93,  190 => 92,  186 => 91,  182 => 90,  178 => 89,  174 => 88,  170 => 87,  166 => 86,  162 => 85,  158 => 84,  154 => 83,  150 => 82,  146 => 81,  142 => 80,  138 => 79,  135 => 78,  133 => 77,  102 => 49,  98 => 48,  71 => 24,  67 => 23,  63 => 22,  59 => 21,  55 => 20,  51 => 19,  47 => 18,  41 => 15,  37 => 14,  33 => 13,  19 => 1,);
     }
 }
 /* <!DOCTYPE html>*/
@@ -337,24 +325,12 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 /*                 <div class="nav-menu singlepage-nav">*/
 /*                     <ul class="nav-menu-inner">*/
 /*                         <li>*/
-/*                             <a class="" href="#intro">Home</a>*/
-/*                         </li>*/
-/*                         <li>*/
 /*                             <a class="" href="#about">About</a>*/
 /* */
 /*                         </li>*/
 /*                         <li>*/
-/*                             <a class="" href="#work">Work</a>*/
+/*                             <a class="" href="#portfolio">Portfolio</a>*/
 /* */
-/*                         </li>*/
-/*                         <li>*/
-/*                             <a class="" href="#service">Service</a>*/
-/*                         </li>*/
-/*                         <li>*/
-/*                             <a class="" href="#blog">News</a>*/
-/*                         </li>*/
-/*                         <li>*/
-/*                             <a class="" href="#pricing">Pricing</a>*/
 /*                         </li>*/
 /*                         <li>*/
 /*                             <a class="" href="#contact-section">Contact</a>*/

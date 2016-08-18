@@ -28,13 +28,11 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                 <div class=\"js-fullscreen-height container\">
                     <div class=\"intro-content\">
                         <div class=\"intro-content-inner\">
-                            <h5>The Digitel Agency</h5>
-                            <h2 class=\"h2\">Mazel Creative Agency</h2>
+                            <h2 class=\"h2\">Welcome to Umagraphics</h2>
                             <div class=\"row\">
                                 <p class=\"lead col-md-6 col-md-offset-3\">e natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo invento</p>
                             </div>
                             <br>
-                            <div><a class=\"btn btn-md btn-white-line xs-hidden\">Read More</a><span class=\"btn-space-10 xs-hidden\"></span><a class=\"btn btn-md btn-white\">Learn More</a></div>
                         </div>
                     </div>
                 </div>
@@ -57,7 +55,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                 <div class=\"row mt-80\">
                     <div class=\"col-md-4 mb-30\">
                         <img src=\"";
-        // line 38
+        // line 36
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/about1.jpg");
         echo "\" alt=\"\" />
                     </div>
@@ -116,7 +114,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                             <div class=\"team-item nf-col-padding\">
                                 <div class=\"team-item-img\">
                                     <img src=\"";
-        // line 94
+        // line 92
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/team/people-1.jpg");
         echo "\" alt=\"\" />
                                     <div class=\"team-item-detail\">
@@ -144,7 +142,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                             <div class=\"team-item nf-col-padding\">
                                 <div class=\"team-item-img\">
                                     <img src=\"";
-        // line 119
+        // line 117
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/team/people-2.jpg");
         echo "\" alt=\"\" />
                                     <div class=\"team-item-detail\">
@@ -172,7 +170,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                             <div class=\"team-item nf-col-padding\">
                                 <div class=\"team-item-img\">
                                     <img src=\"";
-        // line 144
+        // line 142
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/team/people-3.jpg");
         echo "\" alt=\"\" />
                                     <div class=\"team-item-detail\">
@@ -200,7 +198,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                             <div class=\"team-item nf-col-padding\">
                                 <div class=\"team-item-img\">
                                     <img src=\"";
-        // line 169
+        // line 167
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/team/people-4.jpg");
         echo "\" alt=\"\" />
                                     <div class=\"team-item-detail\">
@@ -272,11 +270,11 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"nf-item branding design coffee spacing\">
                         <div class=\"item-box\">
                             <a class=\"cbox-gallary1\" href=\"";
-        // line 238
+        // line 236
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/1.jpg");
         echo "\" title=\"Consequat massa quis\">
                                 <img class=\"item-container\" src=\"";
-        // line 239
+        // line 237
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/1.jpg");
         echo "\" alt=\"1\" />
                                 <div class=\"item-mask\">
@@ -292,11 +290,11 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"nf-item photo spacing\">
                         <div class=\"item-box\">
                             <a class=\"cbox-gallary1\" href=\"";
-        // line 252
+        // line 250
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/2.jpg");
         echo "\" title=\"Vivamus elementum semper\">
                                 <img class=\"item-container\" src=\"";
-        // line 253
+        // line 251
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/2.jpg");
         echo "\" alt=\"2\" />
                                 <div class=\"item-mask\">
@@ -312,11 +310,11 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"nf-item branding design coffee spacing\">
                         <div class=\"item-box\">
                             <a class=\"cbox-gallary1\" href=\"";
-        // line 266
+        // line 264
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/3.jpg");
         echo "\" title=\"Quisque rutrum\">
                                 <img class=\"item-container\" src=\"";
-        // line 267
+        // line 265
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/3.jpg");
         echo "\" alt=\"4\" />
                                 <div class=\"item-mask\">
@@ -332,11 +330,11 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"nf-item branding design spacing\">
                         <div class=\"item-box\">
                             <a class=\"cbox-gallary1\" href=\"";
-        // line 280
+        // line 278
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/4.jpg");
         echo "\" title=\"Tellus eget condimentum\">
                                 <img class=\"item-container\" src=\"";
-        // line 281
+        // line 279
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/4.jpg");
         echo "\" alt=\"4\" />
                                 <div class=\"item-mask\">
@@ -352,11 +350,11 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"nf-item branding design spacing\">
                         <div class=\"item-box\">
                             <a class=\"cbox-gallary1\" href=\"";
-        // line 294
+        // line 292
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/5.jpg");
         echo "\" title=\"Nullam quis ant\">
                                 <img class=\"item-container\" src=\"";
-        // line 295
+        // line 293
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/5.jpg");
         echo "\" alt=\"5\" />
                                 <div class=\"item-mask\">
@@ -372,11 +370,11 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"nf-item photo spacing\">
                         <div class=\"item-box\">
                             <a class=\"cbox-gallary1\" href=\"";
-        // line 308
+        // line 306
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/6.jpg");
         echo "\" title=\"Sed fringilla mauris\">
                                 <img class=\"item-container\" src=\"";
-        // line 309
+        // line 307
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/6.jpg");
         echo "\" alt=\"6\" />
                                 <div class=\"item-mask\">
@@ -392,11 +390,11 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"nf-item design spacing\">
                         <div class=\"item-box\">
                             <a class=\"cbox-gallary1\" href=\"";
-        // line 322
+        // line 320
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/7.jpg");
         echo "\" title=\"Augue velit cursus\">
                                 <img class=\"item-container\" src=\"";
-        // line 323
+        // line 321
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/7.jpg");
         echo "\" alt=\"7\" />
                                 <div class=\"item-mask\">
@@ -412,11 +410,11 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"nf-item coffee spacing\">
                         <div class=\"item-box\">
                             <a class=\"cbox-gallary1\" href=\"";
-        // line 336
+        // line 334
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/8.jpg");
         echo "\" title=\"Donec sodales sagittis\">
                                 <img class=\"item-container\" src=\"";
-        // line 337
+        // line 335
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/8.jpg");
         echo "\" alt=\"8\" />
                                 <div class=\"item-mask\">
@@ -432,11 +430,11 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"nf-item photo spacing\">
                         <div class=\"item-box\">
                             <a class=\"cbox-gallary1\" href=\"";
-        // line 350
+        // line 348
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/9.jpg");
         echo "\" title=\"Donec sodales sagittis\">
                                 <img class=\"item-container\" src=\"";
-        // line 351
+        // line 349
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/portfolio/9.jpg");
         echo "\" alt=\"8\" />
                                 <div class=\"item-mask\">
@@ -462,7 +460,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
 
         <!-- Counter Section -->
         <section id=\"counter\" class=\"overlay-dark80 light-color ptb-80\" style=\"background-image: url('";
-        // line 374
+        // line 372
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/full/21.jpg");
         echo "')\" data-stellar-background-ratio=\"0.5\">
             <div class=\"container text-center\">
@@ -539,7 +537,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                         <div class=\"row\">
                             <div class=\"col-md-6 mb-sm-30\">
                                 <img src=\"";
-        // line 448
+        // line 446
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/moc-1.png");
         echo "\" alt=\"\" />
                             </div>
@@ -567,7 +565,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                             </div>
                             <div class=\"col-md-6 col-md-offset-1\">
                                 <img src=\"";
-        // line 473
+        // line 471
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/moc-1.png");
         echo "\" alt=\"\" />
                             </div>
@@ -580,7 +578,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                         <div class=\"row\">
                             <div class=\"col-md-6 mb-sm-30\">
                                 <img src=\"";
-        // line 483
+        // line 481
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/moc-2.png");
         echo "\" alt=\"\" />
                             </div>
@@ -601,7 +599,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
 
         <!-- Testimonials -->
         <section id=\"testimonial\" class=\"overlay-dark80 dark-bg ptb ptb-sm-80\" style=\"background-image: url('";
-        // line 501
+        // line 499
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/full/22.jpg");
         echo "')\" data-stellar-background-ratio=\"0.5\">
             <div class=\"container\">
@@ -664,7 +662,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     </div>
                     <div class=\"wow fadeIn col-md-4 hidden-sm hidden-xs text-center\">
                         <img src=\"";
-        // line 561
+        // line 559
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/moc-3.png");
         echo "\" />
                     </div>
@@ -731,19 +729,19 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                                 <div class=\"owl-carousel item1-carousel nf-carousel-theme\">
                                     <div class=\"item\">
                                         <img src=\"";
-        // line 625
+        // line 623
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/full/26.jpg");
         echo "\" alt=\"\" />
                                     </div>
                                     <div class=\"item\">
                                         <img src=\"";
-        // line 628
+        // line 626
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/full/04.jpg");
         echo "\" alt=\"\" />
                                     </div>
                                     <div class=\"item\">
                                         <img src=\"";
-        // line 631
+        // line 629
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/full/27.jpg");
         echo "\" alt=\"\" />
                                     </div>
@@ -760,7 +758,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                         <div class=\"blog-post\">
                             <div class=\"post-media\">
                                 <img class=\"item-container\" src=\"";
-        // line 645
+        // line 643
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/full/20.jpg");
         echo "\" alt=\"\" />
                             </div>
@@ -898,7 +896,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"item\">
                         <div class=\"client-logo\">
                             <img src=\"";
-        // line 780
+        // line 778
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/logos/01.png");
         echo "\" alt=\"\" />
                         </div>
@@ -906,7 +904,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"item\">
                         <div class=\"client-logo\">
                             <img src=\"";
-        // line 785
+        // line 783
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/logos/02.png");
         echo "\" alt=\"\" />
                         </div>
@@ -914,7 +912,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"item\">
                         <div class=\"client-logo\">
                             <img src=\"";
-        // line 790
+        // line 788
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/logos/03.png");
         echo "\" alt=\"\" />
                         </div>
@@ -922,7 +920,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"item\">
                         <div class=\"client-logo\">
                             <img src=\"";
-        // line 795
+        // line 793
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/logos/04.png");
         echo "\" alt=\"\" />
                         </div>
@@ -930,7 +928,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"item\">
                         <div class=\"client-logo\">
                             <img src=\"";
-        // line 800
+        // line 798
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/logos/05.png");
         echo "\" alt=\"\" />
                         </div>
@@ -938,7 +936,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"item\">
                         <div class=\"client-logo\">
                             <img src=\"";
-        // line 805
+        // line 803
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/logos/06.png");
         echo "\" alt=\"\" />
                         </div>
@@ -946,7 +944,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"item\">
                         <div class=\"client-logo\">
                             <img src=\"";
-        // line 810
+        // line 808
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/logos/08.png");
         echo "\" alt=\"\" />
                         </div>
@@ -954,7 +952,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"item\">
                         <div class=\"client-logo\">
                             <img src=\"";
-        // line 815
+        // line 813
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/logos/01.png");
         echo "\" alt=\"\" />
                         </div>
@@ -962,7 +960,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"item\">
                         <div class=\"client-logo\">
                             <img src=\"";
-        // line 820
+        // line 818
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/logos/02.png");
         echo "\" alt=\"\" />
                         </div>
@@ -970,7 +968,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                     <div class=\"item\">
                         <div class=\"client-logo\">
                             <img src=\"";
-        // line 825
+        // line 823
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/logos/03.png");
         echo "\" alt=\"\" />
                         </div>
@@ -1162,7 +1160,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
 
     public function getDebugInfo()
     {
-        return array (  974 => 825,  966 => 820,  958 => 815,  950 => 810,  942 => 805,  934 => 800,  926 => 795,  918 => 790,  910 => 785,  902 => 780,  764 => 645,  747 => 631,  741 => 628,  735 => 625,  668 => 561,  605 => 501,  584 => 483,  571 => 473,  543 => 448,  466 => 374,  440 => 351,  436 => 350,  420 => 337,  416 => 336,  400 => 323,  396 => 322,  380 => 309,  376 => 308,  360 => 295,  356 => 294,  340 => 281,  336 => 280,  320 => 267,  316 => 266,  300 => 253,  296 => 252,  280 => 239,  276 => 238,  204 => 169,  176 => 144,  148 => 119,  120 => 94,  61 => 38,  26 => 6,  19 => 1,);
+        return array (  972 => 823,  964 => 818,  956 => 813,  948 => 808,  940 => 803,  932 => 798,  924 => 793,  916 => 788,  908 => 783,  900 => 778,  762 => 643,  745 => 629,  739 => 626,  733 => 623,  666 => 559,  603 => 499,  582 => 481,  569 => 471,  541 => 446,  464 => 372,  438 => 349,  434 => 348,  418 => 335,  414 => 334,  398 => 321,  394 => 320,  378 => 307,  374 => 306,  358 => 293,  354 => 292,  338 => 279,  334 => 278,  318 => 265,  314 => 264,  298 => 251,  294 => 250,  278 => 237,  274 => 236,  202 => 167,  174 => 142,  146 => 117,  118 => 92,  59 => 36,  26 => 6,  19 => 1,);
     }
 }
 /* <!-- CONTENT --------------------------------------------------------------------------------->*/
@@ -1174,13 +1172,11 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
 /*                 <div class="js-fullscreen-height container">*/
 /*                     <div class="intro-content">*/
 /*                         <div class="intro-content-inner">*/
-/*                             <h5>The Digitel Agency</h5>*/
-/*                             <h2 class="h2">Mazel Creative Agency</h2>*/
+/*                             <h2 class="h2">Welcome to Umagraphics</h2>*/
 /*                             <div class="row">*/
 /*                                 <p class="lead col-md-6 col-md-offset-3">e natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo invento</p>*/
 /*                             </div>*/
 /*                             <br>*/
-/*                             <div><a class="btn btn-md btn-white-line xs-hidden">Read More</a><span class="btn-space-10 xs-hidden"></span><a class="btn btn-md btn-white">Learn More</a></div>*/
 /*                         </div>*/
 /*                     </div>*/
 /*                 </div>*/
