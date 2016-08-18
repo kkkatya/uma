@@ -1,0 +1,250 @@
+1471521262a:1:{s:15:"umagraphics.htm";a:6:{s:8:"fileName";s:15:"umagraphics.htm";s:7:"content";s:5899:"==
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Mazel - Multiprapose Html template</title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="nileforest">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+
+    <!-- Favicone Icon -->
+    <link rel="shortcut icon" type="image/x-icon" href="{{'assets/img/favicon.ico'|theme}}">
+    <link rel="icon" type="image/png" href="{{'assets/img/favicon.png'|theme}}">
+    <link rel="apple-touch-icon" href="{{'assets/img/favicon.png'|theme}}">
+
+    <!-- CSS -->
+    <link href="{{'assets/css/style.css'|theme}}" rel="stylesheet" type="text/css" />
+    <link href="{{'assets/css/bootstrap.css'|theme}}" rel="stylesheet" type="text/css" />
+    <link href="{{'assets/css/font-awesome.css'|theme}}" rel="stylesheet" type="text/css" />
+    <link href="{{'assets/css/ionicons.css'|theme}}" rel="stylesheet" type="text/css" />
+    <link href="{{'assets/css/plugin/sidebar-menu.css'|theme}}" rel="stylesheet" type="text/css" />
+    <link href="{{'assets/css/plugin/animate.css'|theme}}" rel="stylesheet" type="text/css" />
+    <link href="{{'assets/css/jquery-ui.css'|theme}}" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+    <!-- Preloader -->
+    <section id="preloader">
+        <div class="loader" id="loader">
+            <div class="loader-img"></div>
+        </div>
+    </section>
+    <!-- End Preloader -->
+    
+        <!-- Site Wraper -->
+    <div class="wrapper">
+
+        <!-- HEADER -->
+        <header id="header" class="header">
+            <div class="container">
+
+                <!-- Logo -->
+                <div class="logo">
+                    <a href="index.html">
+                        <img class="logo-light" src="{{'assets/img/logo-white.png'|theme}}" alt="Mazel" />
+                        <img class="logo-dark" src="{{'assets/img/logo-black.png'|theme}}" alt="Mazel" />
+                    </a>
+                </div>
+                <!-- End Logo -->
+
+
+
+                <!-- Navbar Navigation -->
+                <div class="nav-menu singlepage-nav">
+                    <ul class="nav-menu-inner">
+                        <li>
+                            <a class="" href="#about">About</a>
+
+                        </li>
+                        <li>
+                            <a class="" href="#portfolio">Portfolio</a>
+
+                        </li>
+                        <li>
+                            <a class="" href="#contact-section">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- End Navbar Navigation -->
+
+            </div>
+        </header>
+    
+    {% page %}
+    
+    <script src="{{'assets/js/jquery-1.11.2.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.easing.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/jquery-ui.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/bootstrap.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.flexslider.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.fitvids.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.viewportchecker.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.stellar.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/wow.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.colorbox-min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/owl.carousel.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/isotope.pkgd.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/masonry.pkgd.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/imagesloaded.pkgd.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.fs.tipper.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/mediaelement-and-player.min.js'|theme}}"></script>
+    <script src="{{'assets/js/plugin/jquery.validate.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/theme.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/sidebar-menu.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/navigation.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.singlePageNav.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/contact-form.js'|theme}}" type="text/javascript"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="{{'assets/js/map.js'|theme}}"></script>
+
+    <script type="text/javascript">
+        //  Onepage Nav Elements
+        $('.singlepage-nav').singlePageNav({
+            offset: 0,
+            filter: ':not(.external)',
+            updateHash: true,
+            currentClass: 'current',
+            easing: 'swing',
+            speed: 750,
+            beforeStart: function () {
+                if ($(window).width() < 991) {
+                    $('.singlepage-nav > ul').hide();
+                };
+            },
+            onComplete: function () {
+                console.log('done scrolling');
+            }
+        });
+    </script>
+
+</body>
+</html>";s:5:"mtime";i:1471520636;s:6:"markup";s:5895:"<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Mazel - Multiprapose Html template</title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="nileforest">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+
+    <!-- Favicone Icon -->
+    <link rel="shortcut icon" type="image/x-icon" href="{{'assets/img/favicon.ico'|theme}}">
+    <link rel="icon" type="image/png" href="{{'assets/img/favicon.png'|theme}}">
+    <link rel="apple-touch-icon" href="{{'assets/img/favicon.png'|theme}}">
+
+    <!-- CSS -->
+    <link href="{{'assets/css/style.css'|theme}}" rel="stylesheet" type="text/css" />
+    <link href="{{'assets/css/bootstrap.css'|theme}}" rel="stylesheet" type="text/css" />
+    <link href="{{'assets/css/font-awesome.css'|theme}}" rel="stylesheet" type="text/css" />
+    <link href="{{'assets/css/ionicons.css'|theme}}" rel="stylesheet" type="text/css" />
+    <link href="{{'assets/css/plugin/sidebar-menu.css'|theme}}" rel="stylesheet" type="text/css" />
+    <link href="{{'assets/css/plugin/animate.css'|theme}}" rel="stylesheet" type="text/css" />
+    <link href="{{'assets/css/jquery-ui.css'|theme}}" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+    <!-- Preloader -->
+    <section id="preloader">
+        <div class="loader" id="loader">
+            <div class="loader-img"></div>
+        </div>
+    </section>
+    <!-- End Preloader -->
+    
+        <!-- Site Wraper -->
+    <div class="wrapper">
+
+        <!-- HEADER -->
+        <header id="header" class="header">
+            <div class="container">
+
+                <!-- Logo -->
+                <div class="logo">
+                    <a href="index.html">
+                        <img class="logo-light" src="{{'assets/img/logo-white.png'|theme}}" alt="Mazel" />
+                        <img class="logo-dark" src="{{'assets/img/logo-black.png'|theme}}" alt="Mazel" />
+                    </a>
+                </div>
+                <!-- End Logo -->
+
+
+
+                <!-- Navbar Navigation -->
+                <div class="nav-menu singlepage-nav">
+                    <ul class="nav-menu-inner">
+                        <li>
+                            <a class="" href="#about">About</a>
+
+                        </li>
+                        <li>
+                            <a class="" href="#portfolio">Portfolio</a>
+
+                        </li>
+                        <li>
+                            <a class="" href="#contact-section">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- End Navbar Navigation -->
+
+            </div>
+        </header>
+    
+    {% page %}
+    
+    <script src="{{'assets/js/jquery-1.11.2.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.easing.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/jquery-ui.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/bootstrap.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.flexslider.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.fitvids.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.viewportchecker.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.stellar.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/wow.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.colorbox-min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/owl.carousel.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/isotope.pkgd.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/masonry.pkgd.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/imagesloaded.pkgd.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.fs.tipper.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/mediaelement-and-player.min.js'|theme}}"></script>
+    <script src="{{'assets/js/plugin/jquery.validate.min.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/theme.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/sidebar-menu.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/navigation.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/plugin/jquery.singlePageNav.js'|theme}}" type="text/javascript"></script>
+    <script src="{{'assets/js/contact-form.js'|theme}}" type="text/javascript"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="{{'assets/js/map.js'|theme}}"></script>
+
+    <script type="text/javascript">
+        //  Onepage Nav Elements
+        $('.singlepage-nav').singlePageNav({
+            offset: 0,
+            filter: ':not(.external)',
+            updateHash: true,
+            currentClass: 'current',
+            easing: 'swing',
+            speed: 750,
+            beforeStart: function () {
+                if ($(window).width() < 991) {
+                    $('.singlepage-nav > ul').hide();
+                };
+            },
+            onComplete: function () {
+                console.log('done scrolling');
+            }
+        });
+    </script>
+
+</body>
+</html>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}
