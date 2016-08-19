@@ -68,19 +68,19 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                 <h3>Here are some examples of our work:</h3>
                 <div class=\"spacer-60\"></div>
                 <div class=\"row\">
-                    <div class=\"col-md-offset-1 col-md-2 col-sm-6 mb-45\">
+                    <div class=\"col-md-offset-1 col-md-3 col-sm-offset-1 col-sm-2 mb-45\">
                         <div class=\"page-icon-top\"><i class=\"ion ion-image\"></i></div>
                         <h5>Interiors</h5>
                     </div>
-                    <div class=\"col-md-offset-1 col-md-2 col-md-3 col-sm-6 mb-45\">
+                    <div class=\"col-md-3 col-sm-offset-1 col-sm-2  mb-45\">
                         <div class=\"page-icon-top\"><i class=\"fa fa-home\"></i></div>
                         <h5>Exteriors</h5>
                     </div>
-                    <div class=\"col-md-offset-1 col-md-2 col-md-3 col-sm-6 mb-45\">
+                    <div class=\"col-md-3 col-sm-offset-1 col-sm-2  mb-45\">
                         <div class=\"page-icon-top\"><i class=\"ion ion-videocamera\"></i></div>
                         <h5>Animations</h5>
                     </div>
-                    <div class=\"col-md-offset-1 col-md-2 col-md-3 col-sm-6 mb-45\">
+                    <div class=\"col-md-3 col-sm-offset-1 col-sm-2  mb-45\">
                         <div class=\"page-icon-top\"><i class=\"fa fa-rocket\"></i></div>
                         <h5>Modeling</h5>
                     </div>
@@ -211,19 +211,19 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
 /*                 <h3>Here are some examples of our work:</h3>*/
 /*                 <div class="spacer-60"></div>*/
 /*                 <div class="row">*/
-/*                     <div class="col-md-offset-1 col-md-2 col-sm-6 mb-45">*/
+/*                     <div class="col-md-offset-1 col-md-3 col-sm-offset-1 col-sm-2 mb-45">*/
 /*                         <div class="page-icon-top"><i class="ion ion-image"></i></div>*/
 /*                         <h5>Interiors</h5>*/
 /*                     </div>*/
-/*                     <div class="col-md-offset-1 col-md-2 col-md-3 col-sm-6 mb-45">*/
+/*                     <div class="col-md-3 col-sm-offset-1 col-sm-2  mb-45">*/
 /*                         <div class="page-icon-top"><i class="fa fa-home"></i></div>*/
 /*                         <h5>Exteriors</h5>*/
 /*                     </div>*/
-/*                     <div class="col-md-offset-1 col-md-2 col-md-3 col-sm-6 mb-45">*/
+/*                     <div class="col-md-3 col-sm-offset-1 col-sm-2  mb-45">*/
 /*                         <div class="page-icon-top"><i class="ion ion-videocamera"></i></div>*/
 /*                         <h5>Animations</h5>*/
 /*                     </div>*/
-/*                     <div class="col-md-offset-1 col-md-2 col-md-3 col-sm-6 mb-45">*/
+/*                     <div class="col-md-3 col-sm-offset-1 col-sm-2  mb-45">*/
 /*                         <div class="page-icon-top"><i class="fa fa-rocket"></i></div>*/
 /*                         <h5>Modeling</h5>*/
 /*                     </div>*/

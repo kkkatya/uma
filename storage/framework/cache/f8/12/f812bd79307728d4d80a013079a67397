@@ -1,4 +1,4 @@
-1471599238a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6797:"title = "home"
+1471599805a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6789:"title = "home"
 url = "/"
 layout = "umagraphics"
 is_hidden = 0
@@ -52,19 +52,19 @@ is_hidden = 0
                 <h3>Here are some examples of our work:</h3>
                 <div class="spacer-60"></div>
                 <div class="row">
-                    <div class="col-md-offset-1 col-md-2 col-sm-6 mb-45">
+                    <div class="col-md-offset-1 col-md-3 col-sm-offset-1 col-sm-2 mb-45">
                         <div class="page-icon-top"><i class="ion ion-image"></i></div>
                         <h5>Interiors</h5>
                     </div>
-                    <div class="col-md-offset-1 col-md-2 col-md-3 col-sm-6 mb-45">
+                    <div class="col-md-3 col-sm-offset-1 col-sm-2  mb-45">
                         <div class="page-icon-top"><i class="fa fa-home"></i></div>
                         <h5>Exteriors</h5>
                     </div>
-                    <div class="col-md-offset-1 col-md-2 col-md-3 col-sm-6 mb-45">
+                    <div class="col-md-3 col-sm-offset-1 col-sm-2  mb-45">
                         <div class="page-icon-top"><i class="ion ion-videocamera"></i></div>
                         <h5>Animations</h5>
                     </div>
-                    <div class="col-md-offset-1 col-md-2 col-md-3 col-sm-6 mb-45">
+                    <div class="col-md-3 col-sm-offset-1 col-sm-2  mb-45">
                         <div class="page-icon-top"><i class="fa fa-rocket"></i></div>
                         <h5>Modeling</h5>
                     </div>
@@ -128,7 +128,7 @@ is_hidden = 0
         <!-- End Scroll Top -->
 
     </div>
-    <!-- Site Wraper End -->";s:5:"mtime";i:1471598636;s:6:"markup";s:6727:"<!-- CONTENT --------------------------------------------------------------------------------->
+    <!-- Site Wraper End -->";s:5:"mtime";i:1471599204;s:6:"markup";s:6719:"<!-- CONTENT --------------------------------------------------------------------------------->
 
         <!-- Intro -->
         <section id="intro" class="intro">
@@ -177,19 +177,19 @@ is_hidden = 0
                 <h3>Here are some examples of our work:</h3>
                 <div class="spacer-60"></div>
                 <div class="row">
-                    <div class="col-md-offset-1 col-md-2 col-sm-6 mb-45">
+                    <div class="col-md-offset-1 col-md-3 col-sm-offset-1 col-sm-2 mb-45">
                         <div class="page-icon-top"><i class="ion ion-image"></i></div>
                         <h5>Interiors</h5>
                     </div>
-                    <div class="col-md-offset-1 col-md-2 col-md-3 col-sm-6 mb-45">
+                    <div class="col-md-3 col-sm-offset-1 col-sm-2  mb-45">
                         <div class="page-icon-top"><i class="fa fa-home"></i></div>
                         <h5>Exteriors</h5>
                     </div>
-                    <div class="col-md-offset-1 col-md-2 col-md-3 col-sm-6 mb-45">
+                    <div class="col-md-3 col-sm-offset-1 col-sm-2  mb-45">
                         <div class="page-icon-top"><i class="ion ion-videocamera"></i></div>
                         <h5>Animations</h5>
                     </div>
-                    <div class="col-md-offset-1 col-md-2 col-md-3 col-sm-6 mb-45">
+                    <div class="col-md-3 col-sm-offset-1 col-sm-2  mb-45">
                         <div class="page-icon-top"><i class="fa fa-rocket"></i></div>
                         <h5>Modeling</h5>
                     </div>
