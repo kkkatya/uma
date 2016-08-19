@@ -1,4 +1,20 @@
+<<<<<<< HEAD
 1471600548a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6971:"title = "home"
+=======
+<<<<<<< HEAD
+1471600260a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6797:"title = "home"
+=======
+<<<<<<< HEAD
+1471599805a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6789:"title = "home"
+=======
+<<<<<<< HEAD
+1471599560a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:54948:"title = "home"
+url = "/home"
+=======
+1471599238a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6797:"title = "home"
+>>>>>>> afd146f78c65674edfa02bba567f627c1dae3976
+>>>>>>> b04b6e24a4b428875bfef5757814857d4ebf8259
+>>>>>>> 87a8f4e24cb3a5742534532698412b0c51e35f71
 url = "/"
 layout = "umagraphics"
 is_hidden = 0
@@ -128,7 +144,15 @@ is_hidden = 0
         <!-- End Scroll Top -->
 
     </div>
+<<<<<<< HEAD
     <!-- Site Wraper End -->";s:5:"mtime";i:1471599946;s:6:"markup";s:6901:"<!-- CONTENT --------------------------------------------------------------------------------->
+=======
+<<<<<<< HEAD
+    <!-- Site Wraper End -->";s:5:"mtime";i:1471599024;s:6:"markup";s:6727:"<!-- CONTENT --------------------------------------------------------------------------------->
+=======
+    <!-- Site Wraper End -->";s:5:"mtime";i:1471599204;s:6:"markup";s:6719:"<!-- CONTENT --------------------------------------------------------------------------------->
+>>>>>>> b04b6e24a4b428875bfef5757814857d4ebf8259
+>>>>>>> 87a8f4e24cb3a5742534532698412b0c51e35f71
 
         <!-- Intro -->
         <section id="intro" class="intro">
