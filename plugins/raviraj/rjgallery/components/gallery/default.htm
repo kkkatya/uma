@@ -54,12 +54,13 @@
     </script>
 {% endput %}
 
-<div style="width:100%">
-    <ul id="{{ __SELF__ }}" class="{{ __SELF__ }}">
-        {% for image in gallery.images %}
-            <li data-src="{{ image.path }}" data-title="{{ image.title }}" data-desc="{{ image.description }}">
-                <a href="#"><img src="{{ image.getThumb(width, height, resizer) }}" alt="{{ image.title }}" /></a>
-            </li>
-        {% endfor %}
-    </ul>
-</div>
+
+{% for image in gallery.images %}
+    <div class="nf-item photo spacing">
+        <div class="item-box">
+            <a class="cbox-gallary1" href="{{ image.path }}" title="{{ image.title }}">
+                <img alt="1" src="{{ image.path }}" class="item-container">
+            </a>
+        </div>
+    </div>
+{% endfor %}
