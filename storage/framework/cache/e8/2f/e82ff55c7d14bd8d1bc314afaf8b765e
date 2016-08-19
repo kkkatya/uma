@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 1471599727a:1:{s:15:"umagraphics.htm";a:6:{s:8:"fileName";s:15:"umagraphics.htm";s:7:"content";s:6436:"==
+=======
+<<<<<<< HEAD
+1471599560a:1:{s:15:"umagraphics.htm";a:6:{s:8:"fileName";s:15:"umagraphics.htm";s:7:"content";s:5899:"==
+=======
+1471598775a:1:{s:15:"umagraphics.htm";a:6:{s:8:"fileName";s:15:"umagraphics.htm";s:7:"content";s:6436:"==
+>>>>>>> 71085fd2dece4625857ab35fded0f632fc39f971
+>>>>>>> afd146f78c65674edfa02bba567f627c1dae3976
 <!DOCTYPE html>
 <html>
 <head>
@@ -130,7 +138,11 @@
     </script>
 
 </body>
+<<<<<<< HEAD
+</html>";s:5:"mtime";i:1471598954;s:6:"markup";s:5895:"<!DOCTYPE html>
+=======
 </html>";s:5:"mtime";i:1471595425;s:6:"markup";s:6432:"<!DOCTYPE html>
+>>>>>>> 71085fd2dece4625857ab35fded0f632fc39f971
 <html>
 <head>
     <meta charset="utf-8" />

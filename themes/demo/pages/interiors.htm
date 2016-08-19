@@ -1,0 +1,44 @@
+title = "Interiors"
+url = "/interiors"
+layout = "umagraphics"
+is_hidden = 0
+
+[gallery]
+idGallery = 2
+lang = "Interiors"
+jqueryinject = "yes"
+thumbnail = "true"
+caption = "true"
+desc = "true"
+counter = "true"
+controls = "true"
+preload = 1
+mode = "slide"
+speed = 500
+loop = "true"
+auto = "false"
+pause = 2000
+escKey = "true"
+height = 70
+width = 100
+resizer = "auto"
+==
+<!-- Intro Section -->
+        <section class="inner-intro bg-image overlay-light parallax parallax-background1" data-background-img="{{'assets/img/intro-bg.jpg'|theme}}">
+            <div class="container">
+                <div class="row title">
+                    <h2 class="h2">Portfolio</h2>
+                    <div class="page-breadcrumb">
+                        Home/Portfolio/<span>Interiors</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Intro Section -->
+<section class="ptb ptb-sm-80">
+    <div class="container">
+        <div class="row container-masonry nf-col-3">
+            {% component 'gallery' %}
+        </div>
+    </div>
+</section>
