@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 1471595987a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:17618:"title = "home"
 url = "/"
+=======
+1471521775a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:54948:"title = "home"
+url = "/home"
+>>>>>>> a26e99b13593a7d92b30888856e31dee6becee22
 layout = "umagraphics"
 is_hidden = 0
 ==
@@ -332,7 +337,11 @@ is_hidden = 0
         <!-- End Scroll Top -->
 
     </div>
+<<<<<<< HEAD
     <!-- Site Wraper End -->";s:5:"mtime";i:1471594549;s:6:"markup";s:17548:"<!-- CONTENT --------------------------------------------------------------------------------->
+=======
+    <!-- Site Wraper End -->";s:5:"mtime";i:1471520949;s:6:"markup";s:54874:"<!-- CONTENT --------------------------------------------------------------------------------->
+>>>>>>> a26e99b13593a7d92b30888856e31dee6becee22
 
         <!-- Intro -->
         <section id="intro" class="intro">
