@@ -65,24 +65,24 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
 
         <section id=\"service\" class=\"dark-bg ptb ptb-sm-80\">
             <div class=\"wow fadeInLeft container text-center\">
-                <h3>Here are some examples of our work:</h3>
+                <h2>Here are some examples of our work:</h2>
                 <div class=\"spacer-60\"></div>
                 <div class=\"row\">
-                    <div class=\"col-md-offset-1 col-md-3 col-sm-offset-1 col-sm-2 mb-45\">
+                    <div class=\"col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2 mb-45\">
                         <div class=\"page-icon-top\"><i class=\"ion ion-image\"></i></div>
-                        <h5>Interiors</h5>
+                        <a href=\"/interiors\"><h5>Interiors</h5></a>
                     </div>
-                    <div class=\"col-md-3 col-sm-offset-1 col-sm-2  mb-45\">
+                    <div class=\"col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2  mb-45\">
                         <div class=\"page-icon-top\"><i class=\"fa fa-home\"></i></div>
-                        <h5>Exteriors</h5>
+                        <a href=\"/exteriors\"><h5>Exteriors</h5></a>
                     </div>
-                    <div class=\"col-md-3 col-sm-offset-1 col-sm-2  mb-45\">
+                    <div class=\"col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2  mb-45\">
                         <div class=\"page-icon-top\"><i class=\"ion ion-videocamera\"></i></div>
-                        <h5>Animations</h5>
+                        <a href=\"/animations\"><h5>Animations</h5></a>
                     </div>
-                    <div class=\"col-md-3 col-sm-offset-1 col-sm-2  mb-45\">
+                    <div class=\"col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2  mb-45\">
                         <div class=\"page-icon-top\"><i class=\"fa fa-rocket\"></i></div>
-                        <h5>Modeling</h5>
+                        <a href=\"/modeling\"><h5>Modeling</h5></a>
                     </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
             <div class=\"container\">
                 <div class=\"row\">
 
-                    <div class=\"col-md-4\">
+                    <div class=\"col-sm-4 col-md-4\">
                         <div class=\"contact-box-left\">
                             <div class=\"contact-icon-left\"><i class=\"ion ion-ios-telephone\"></i></div>
                             <h6>Call Us</h6>
@@ -105,7 +105,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                         </div>
                     </div>
 
-                    <div class=\"col-md-4 col-md-offset-4\">
+                    <div class=\"col sm-4 col-sm-offset-4 col-md-4 col-md-offset-4\">
                         <div class=\"contact-box-left\">
                             <div class=\"contact-icon-left\"><i class=\"ion ion-ios-email\"></i></div>
                             <h6>Email</h6>
@@ -208,24 +208,24 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
 /* */
 /*         <section id="service" class="dark-bg ptb ptb-sm-80">*/
 /*             <div class="wow fadeInLeft container text-center">*/
-/*                 <h3>Here are some examples of our work:</h3>*/
+/*                 <h2>Here are some examples of our work:</h2>*/
 /*                 <div class="spacer-60"></div>*/
 /*                 <div class="row">*/
-/*                     <div class="col-md-offset-1 col-md-3 col-sm-offset-1 col-sm-2 mb-45">*/
+/*                     <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2 mb-45">*/
 /*                         <div class="page-icon-top"><i class="ion ion-image"></i></div>*/
-/*                         <h5>Interiors</h5>*/
+/*                         <a href="/interiors"><h5>Interiors</h5></a>*/
 /*                     </div>*/
-/*                     <div class="col-md-3 col-sm-offset-1 col-sm-2  mb-45">*/
+/*                     <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2  mb-45">*/
 /*                         <div class="page-icon-top"><i class="fa fa-home"></i></div>*/
-/*                         <h5>Exteriors</h5>*/
+/*                         <a href="/exteriors"><h5>Exteriors</h5></a>*/
 /*                     </div>*/
-/*                     <div class="col-md-3 col-sm-offset-1 col-sm-2  mb-45">*/
+/*                     <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2  mb-45">*/
 /*                         <div class="page-icon-top"><i class="ion ion-videocamera"></i></div>*/
-/*                         <h5>Animations</h5>*/
+/*                         <a href="/animations"><h5>Animations</h5></a>*/
 /*                     </div>*/
-/*                     <div class="col-md-3 col-sm-offset-1 col-sm-2  mb-45">*/
+/*                     <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2  mb-45">*/
 /*                         <div class="page-icon-top"><i class="fa fa-rocket"></i></div>*/
-/*                         <h5>Modeling</h5>*/
+/*                         <a href="/modeling"><h5>Modeling</h5></a>*/
 /*                     </div>*/
 /*                 </div>*/
 /*             </div>*/
@@ -237,7 +237,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
 /*             <div class="container">*/
 /*                 <div class="row">*/
 /* */
-/*                     <div class="col-md-4">*/
+/*                     <div class="col-sm-4 col-md-4">*/
 /*                         <div class="contact-box-left">*/
 /*                             <div class="contact-icon-left"><i class="ion ion-ios-telephone"></i></div>*/
 /*                             <h6>Call Us</h6>*/
@@ -248,7 +248,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
 /*                         </div>*/
 /*                     </div>*/
 /* */
-/*                     <div class="col-md-4 col-md-offset-4">*/
+/*                     <div class="col sm-4 col-sm-offset-4 col-md-4 col-md-offset-4">*/
 /*                         <div class="contact-box-left">*/
 /*                             <div class="contact-icon-left"><i class="ion ion-ios-email"></i></div>*/
 /*                             <h6>Email</h6>*/

@@ -117,10 +117,10 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
                         <li>
                             <a class=\"menu-has-sub\" href=\"#Portfolio\">Portfolio <i class=\"fa fa-angle-down\"></i></a>
                                 <ul class=\"sub-dropdown dropdown\">
-                                        <li><a href=\"onepage.html\">Interiors</a></li>
-                                        <li><a href=\"onepage-personal.html\">Exteriors</a></li>
-                                        <li><a href=\"onepage-video.html\">Amimations</a></li>
-                                        <li><a href=\"onepage-youtube.html\">Modeling</a></li>
+                                        <li><a href=\"/interiors\">Interiors</a></li>
+                                        <li><a href=\"/exteriors\">Exteriors</a></li>
+                                        <li><a href=\"/animations\">Amimations</a></li>
+                                        <li><a href=\"/modeling\">Modeling</a></li>
                                     </ul>
 
                         </li>
@@ -338,10 +338,10 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 /*                         <li>*/
 /*                             <a class="menu-has-sub" href="#Portfolio">Portfolio <i class="fa fa-angle-down"></i></a>*/
 /*                                 <ul class="sub-dropdown dropdown">*/
-/*                                         <li><a href="onepage.html">Interiors</a></li>*/
-/*                                         <li><a href="onepage-personal.html">Exteriors</a></li>*/
-/*                                         <li><a href="onepage-video.html">Amimations</a></li>*/
-/*                                         <li><a href="onepage-youtube.html">Modeling</a></li>*/
+/*                                         <li><a href="/interiors">Interiors</a></li>*/
+/*                                         <li><a href="/exteriors">Exteriors</a></li>*/
+/*                                         <li><a href="/animations">Amimations</a></li>*/
+/*                                         <li><a href="/modeling">Modeling</a></li>*/
 /*                                     </ul>*/
 /* */
 /*                         </li>*/
