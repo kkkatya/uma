@@ -1,17 +1,1 @@
-<<<<<<< HEAD
-1471600097a:1:{i:0;O:8:"stdClass":5:{s:2:"id";i:3;s:9:"namespace";s:6:"system";s:5:"group";s:4:"core";s:4:"item";s:5:"build";s:5:"value";s:5:""361"";}}
-=======
-<<<<<<< HEAD
-1471599812a:1:{i:0;O:8:"stdClass":5:{s:2:"id";i:3;s:9:"namespace";s:6:"system";s:5:"group";s:4:"core";s:4:"item";s:5:"build";s:5:"value";s:5:""361"";}}
-=======
-<<<<<<< HEAD
-1471599425a:1:{i:0;O:8:"stdClass":5:{s:2:"id";i:3;s:9:"namespace";s:6:"system";s:5:"group";s:4:"core";s:4:"item";s:5:"build";s:5:"value";s:5:""361"";}}
-=======
-<<<<<<< HEAD
-1471599273a:1:{i:0;O:8:"stdClass":5:{s:2:"id";i:3;s:9:"namespace";s:6:"system";s:5:"group";s:4:"core";s:4:"item";s:5:"build";s:5:"value";s:5:""361"";}}
-=======
-1471598746a:1:{i:0;O:8:"stdClass":5:{s:2:"id";i:3;s:9:"namespace";s:6:"system";s:5:"group";s:4:"core";s:4:"item";s:5:"build";s:5:"value";s:5:""361"";}}
->>>>>>> 71085fd2dece4625857ab35fded0f632fc39f971
->>>>>>> afd146f78c65674edfa02bba567f627c1dae3976
->>>>>>> b04b6e24a4b428875bfef5757814857d4ebf8259
->>>>>>> 87a8f4e24cb3a5742534532698412b0c51e35f71
+1471600569a:1:{i:0;O:8:"stdClass":5:{s:2:"id";i:3;s:9:"namespace";s:6:"system";s:5:"group";s:4:"core";s:4:"item";s:5:"build";s:5:"value";s:5:""361"";}}

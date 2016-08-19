@@ -92,7 +92,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 
                 <!-- Logo -->
                 <div class=\"logo\">
-                    <a href=\"index.html\">
+                    <a href=\"/\">
                         <img class=\"logo-light\" src=\"";
         // line 48
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/logo-white.png");
@@ -319,7 +319,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 /* */
 /*                 <!-- Logo -->*/
 /*                 <div class="logo">*/
-/*                     <a href="index.html">*/
+/*                     <a href="/">*/
 /*                         <img class="logo-light" src="{{'assets/img/logo-white.png'|theme}}" alt="Mazel" />*/
 /*                         <img class="logo-dark" src="{{'assets/img/logo-black.png'|theme}}" alt="Mazel" />*/
 /*                     </a>*/
