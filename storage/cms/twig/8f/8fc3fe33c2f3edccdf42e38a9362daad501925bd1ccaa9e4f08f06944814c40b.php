@@ -20,7 +20,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 <html>
 <head>
     <meta charset=\"utf-8\" />
-    <title>Mazel - Multiprapose Html template</title>
+    <title>Home | UmaGraphics</title>
     <meta name=\"description\" content=\"\" />
     <meta name=\"keywords\" content=\"\" />
     <meta name=\"author\" content=\"nileforest\">
@@ -115,9 +115,16 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 
                         </li>
                         <li>
-                            <a class=\"\" href=\"#portfolio\">Portfolio</a>
+                            <a class=\"menu-has-sub\" href=\"#Portfolio\">Portfolio <i class=\"fa fa-angle-down\"></i></a>
+                                <ul class=\"sub-dropdown dropdown\">
+                                        <li><a href=\"onepage.html\">Interiors</a></li>
+                                        <li><a href=\"onepage-personal.html\">Exteriors</a></li>
+                                        <li><a href=\"onepage-video.html\">Amimations</a></li>
+                                        <li><a href=\"onepage-youtube.html\">Modeling</a></li>
+                                    </ul>
 
                         </li>
+                        
                         <li>
                             <a class=\"\" href=\"#contact-section\">Contact</a>
                         </li>
@@ -129,101 +136,101 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
         </header>
     
     ";
-        // line 77
+        // line 84
         echo $this->env->getExtension('CMS')->pageFunction();
-        // line 78
+        // line 85
         echo "    
     <script src=\"";
-        // line 79
+        // line 86
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/jquery-1.11.2.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 80
+        // line 87
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.easing.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 81
+        // line 88
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/jquery-ui.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 82
+        // line 89
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/bootstrap.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 83
+        // line 90
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.flexslider.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 84
+        // line 91
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.fitvids.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 85
+        // line 92
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.viewportchecker.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 86
+        // line 93
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.stellar.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 87
+        // line 94
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/wow.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 88
+        // line 95
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.colorbox-min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 89
+        // line 96
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/owl.carousel.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 90
+        // line 97
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/isotope.pkgd.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 91
+        // line 98
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/masonry.pkgd.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 92
+        // line 99
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/imagesloaded.pkgd.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 93
+        // line 100
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.fs.tipper.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 94
+        // line 101
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/mediaelement-and-player.min.js");
         echo "\"></script>
     <script src=\"";
-        // line 95
+        // line 102
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.validate.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 96
+        // line 103
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/theme.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 97
+        // line 104
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/sidebar-menu.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 98
+        // line 105
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/navigation.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 99
+        // line 106
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.singlePageNav.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 100
+        // line 107
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/contact-form.js");
         echo "\" type=\"text/javascript\"></script>
     <script type=\"text/javascript\" src=\"https://maps.googleapis.com/maps/api/js?sensor=false\"></script>
     <script type=\"text/javascript\" src=\"";
-        // line 102
+        // line 109
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/map.js");
         echo "\"></script>
 
@@ -263,14 +270,14 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 
     public function getDebugInfo()
     {
-        return array (  227 => 102,  222 => 100,  218 => 99,  214 => 98,  210 => 97,  206 => 96,  202 => 95,  198 => 94,  194 => 93,  190 => 92,  186 => 91,  182 => 90,  178 => 89,  174 => 88,  170 => 87,  166 => 86,  162 => 85,  158 => 84,  154 => 83,  150 => 82,  146 => 81,  142 => 80,  138 => 79,  135 => 78,  133 => 77,  102 => 49,  98 => 48,  71 => 24,  67 => 23,  63 => 22,  59 => 21,  55 => 20,  51 => 19,  47 => 18,  41 => 15,  37 => 14,  33 => 13,  19 => 1,);
+        return array (  234 => 109,  229 => 107,  225 => 106,  221 => 105,  217 => 104,  213 => 103,  209 => 102,  205 => 101,  201 => 100,  197 => 99,  193 => 98,  189 => 97,  185 => 96,  181 => 95,  177 => 94,  173 => 93,  169 => 92,  165 => 91,  161 => 90,  157 => 89,  153 => 88,  149 => 87,  145 => 86,  142 => 85,  140 => 84,  102 => 49,  98 => 48,  71 => 24,  67 => 23,  63 => 22,  59 => 21,  55 => 20,  51 => 19,  47 => 18,  41 => 15,  37 => 14,  33 => 13,  19 => 1,);
     }
 }
 /* <!DOCTYPE html>*/
 /* <html>*/
 /* <head>*/
 /*     <meta charset="utf-8" />*/
-/*     <title>Mazel - Multiprapose Html template</title>*/
+/*     <title>Home | UmaGraphics</title>*/
 /*     <meta name="description" content="" />*/
 /*     <meta name="keywords" content="" />*/
 /*     <meta name="author" content="nileforest">*/
@@ -329,9 +336,16 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 /* */
 /*                         </li>*/
 /*                         <li>*/
-/*                             <a class="" href="#portfolio">Portfolio</a>*/
+/*                             <a class="menu-has-sub" href="#Portfolio">Portfolio <i class="fa fa-angle-down"></i></a>*/
+/*                                 <ul class="sub-dropdown dropdown">*/
+/*                                         <li><a href="onepage.html">Interiors</a></li>*/
+/*                                         <li><a href="onepage-personal.html">Exteriors</a></li>*/
+/*                                         <li><a href="onepage-video.html">Amimations</a></li>*/
+/*                                         <li><a href="onepage-youtube.html">Modeling</a></li>*/
+/*                                     </ul>*/
 /* */
 /*                         </li>*/
+/*                         */
 /*                         <li>*/
 /*                             <a class="" href="#contact-section">Contact</a>*/
 /*                         </li>*/

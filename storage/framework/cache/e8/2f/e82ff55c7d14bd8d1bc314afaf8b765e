@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 1471599560a:1:{s:15:"umagraphics.htm";a:6:{s:8:"fileName";s:15:"umagraphics.htm";s:7:"content";s:5899:"==
+=======
+1471598775a:1:{s:15:"umagraphics.htm";a:6:{s:8:"fileName";s:15:"umagraphics.htm";s:7:"content";s:6436:"==
+>>>>>>> 71085fd2dece4625857ab35fded0f632fc39f971
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Mazel - Multiprapose Html template</title>
+    <title>Home | UmaGraphics</title>
     <meta name="description" content="" />
     <meta name="keywords" content="" />
     <meta name="author" content="nileforest">
@@ -62,9 +66,16 @@
 
                         </li>
                         <li>
-                            <a class="" href="#portfolio">Portfolio</a>
+                            <a class="menu-has-sub" href="#Portfolio">Portfolio <i class="fa fa-angle-down"></i></a>
+                                <ul class="sub-dropdown dropdown">
+                                        <li><a href="onepage.html">Interiors</a></li>
+                                        <li><a href="onepage-personal.html">Exteriors</a></li>
+                                        <li><a href="onepage-video.html">Amimations</a></li>
+                                        <li><a href="onepage-youtube.html">Modeling</a></li>
+                                    </ul>
 
                         </li>
+                        
                         <li>
                             <a class="" href="#contact-section">Contact</a>
                         </li>
@@ -123,11 +134,15 @@
     </script>
 
 </body>
+<<<<<<< HEAD
 </html>";s:5:"mtime";i:1471598954;s:6:"markup";s:5895:"<!DOCTYPE html>
+=======
+</html>";s:5:"mtime";i:1471595425;s:6:"markup";s:6432:"<!DOCTYPE html>
+>>>>>>> 71085fd2dece4625857ab35fded0f632fc39f971
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Mazel - Multiprapose Html template</title>
+    <title>Home | UmaGraphics</title>
     <meta name="description" content="" />
     <meta name="keywords" content="" />
     <meta name="author" content="nileforest">
@@ -186,9 +201,16 @@
 
                         </li>
                         <li>
-                            <a class="" href="#portfolio">Portfolio</a>
+                            <a class="menu-has-sub" href="#Portfolio">Portfolio <i class="fa fa-angle-down"></i></a>
+                                <ul class="sub-dropdown dropdown">
+                                        <li><a href="onepage.html">Interiors</a></li>
+                                        <li><a href="onepage-personal.html">Exteriors</a></li>
+                                        <li><a href="onepage-video.html">Amimations</a></li>
+                                        <li><a href="onepage-youtube.html">Modeling</a></li>
+                                    </ul>
 
                         </li>
+                        
                         <li>
                             <a class="" href="#contact-section">Contact</a>
                         </li>
