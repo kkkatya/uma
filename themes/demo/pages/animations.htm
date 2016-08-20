@@ -1,0 +1,29 @@
+title = "Animations"
+url = "/animations"
+layout = "umagraphics"
+is_hidden = 0
+
+[latestVideos]
+channel_id = "UCi3LgmeX7Hagijetngy5VUw"
+max_items = 30
+thumb_resolution = "medium"
+==
+<!-- Intro Section -->
+        <section class="inner-intro bg-image overlay-light parallax parallax-background1" data-background-img="{{'assets/img/intro-bg.jpg'|theme}}">
+            <div class="container">
+                <div class="row title">
+                    <h2 class="h2">Portfolio</h2>
+                    <div class="page-breadcrumb">
+                        Home/Portfolio/<span>Animations</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Intro Section -->
+<section class="ptb ptb-sm-80">
+    <div class="container">
+        <div class="row container-masonry nf-col-3">
+            {% component 'latestVideos' %}
+        </div>
+    </div>
+</section>
