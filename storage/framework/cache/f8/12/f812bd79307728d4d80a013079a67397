@@ -1,4 +1,4 @@
-1471600737a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6971:"title = "home"
+1471689855a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6955:"title = "home"
 url = "/"
 layout = "umagraphics"
 is_hidden = 0
@@ -52,19 +52,19 @@ is_hidden = 0
                 <h2>Here are some examples of our work:</h2>
                 <div class="spacer-60"></div>
                 <div class="row">
-                    <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2 mb-45">
+                    <div class="col-md-offset-1 col-md-1 col-sm-1 mb-45">
                         <div class="page-icon-top"><i class="ion ion-image"></i></div>
                         <a href="/interiors"><h5>Interiors</h5></a>
                     </div>
-                    <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2  mb-45">
+                    <div class="col-md-offset-2 col-md-1 col-sm-offset-2 col-sm-1  mb-45">
                         <div class="page-icon-top"><i class="fa fa-home"></i></div>
                         <a href="/exteriors"><h5>Exteriors</h5></a>
                     </div>
-                    <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2  mb-45">
+                    <div class="col-md-offset-2 col-md-1 col-sm-offset-2 col-sm-1  mb-45">
                         <div class="page-icon-top"><i class="ion ion-videocamera"></i></div>
                         <a href="/animations"><h5>Animations</h5></a>
                     </div>
-                    <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2  mb-45">
+                    <div class="col-md-offset-2 col-md-1 col-sm-offset-2 col-sm-1  mb-45">
                         <div class="page-icon-top"><i class="fa fa-rocket"></i></div>
                         <a href="/modeling"><h5>Modeling</h5></a>
                     </div>
@@ -128,7 +128,7 @@ is_hidden = 0
         <!-- End Scroll Top -->
 
     </div>
-    <!-- Site Wraper End -->";s:5:"mtime";i:1471599946;s:6:"markup";s:6901:"<!-- CONTENT --------------------------------------------------------------------------------->
+    <!-- Site Wraper End -->";s:5:"mtime";i:1471688251;s:6:"markup";s:6885:"<!-- CONTENT --------------------------------------------------------------------------------->
 
         <!-- Intro -->
         <section id="intro" class="intro">
@@ -177,19 +177,19 @@ is_hidden = 0
                 <h2>Here are some examples of our work:</h2>
                 <div class="spacer-60"></div>
                 <div class="row">
-                    <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2 mb-45">
+                    <div class="col-md-offset-1 col-md-1 col-sm-1 mb-45">
                         <div class="page-icon-top"><i class="ion ion-image"></i></div>
                         <a href="/interiors"><h5>Interiors</h5></a>
                     </div>
-                    <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2  mb-45">
+                    <div class="col-md-offset-2 col-md-1 col-sm-offset-2 col-sm-1  mb-45">
                         <div class="page-icon-top"><i class="fa fa-home"></i></div>
                         <a href="/exteriors"><h5>Exteriors</h5></a>
                     </div>
-                    <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2  mb-45">
+                    <div class="col-md-offset-2 col-md-1 col-sm-offset-2 col-sm-1  mb-45">
                         <div class="page-icon-top"><i class="ion ion-videocamera"></i></div>
                         <a href="/animations"><h5>Animations</h5></a>
                     </div>
-                    <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2  mb-45">
+                    <div class="col-md-offset-2 col-md-1 col-sm-offset-2 col-sm-1  mb-45">
                         <div class="page-icon-top"><i class="fa fa-rocket"></i></div>
                         <a href="/modeling"><h5>Modeling</h5></a>
                     </div>

@@ -95,11 +95,11 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
                     <a href=\"/\">
                         <img class=\"logo-light\" src=\"";
         // line 48
-        echo $this->env->getExtension('CMS')->themeFilter("assets/img/logo-white.png");
+        echo $this->env->getExtension('CMS')->themeFilter("assets/img/uma-white.png");
         echo "\" alt=\"Mazel\" />
                         <img class=\"logo-dark\" src=\"";
         // line 49
-        echo $this->env->getExtension('CMS')->themeFilter("assets/img/logo-black.png");
+        echo $this->env->getExtension('CMS')->themeFilter("assets/img/uma-black.png");
         echo "\" alt=\"Mazel\" />
                     </a>
                 </div>
@@ -110,6 +110,10 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
                 <!-- Navbar Navigation -->
                 <div class=\"nav-menu singlepage-nav\">
                     <ul class=\"nav-menu-inner\">
+                        <li>
+                            <a class=\"\" href=\"/\">Home</a>
+
+                        </li>
                         <li>
                             <a class=\"\" href=\"#about\">About</a>
 
@@ -126,7 +130,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
                         </li>
                         
                         <li>
-                            <a class=\"\" href=\"#contact-section\">Contact</a>
+                            <a class=\"\" href=\"#contact-info\">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -136,101 +140,101 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
         </header>
     
     ";
-        // line 84
+        // line 88
         echo $this->env->getExtension('CMS')->pageFunction();
-        // line 85
+        // line 89
         echo "    
     <script src=\"";
-        // line 86
+        // line 90
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/jquery-1.11.2.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 87
+        // line 91
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.easing.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 88
+        // line 92
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/jquery-ui.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 89
+        // line 93
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/bootstrap.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 90
+        // line 94
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.flexslider.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 91
+        // line 95
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.fitvids.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 92
+        // line 96
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.viewportchecker.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 93
+        // line 97
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.stellar.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 94
+        // line 98
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/wow.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 95
+        // line 99
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.colorbox-min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 96
+        // line 100
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/owl.carousel.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 97
+        // line 101
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/isotope.pkgd.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 98
+        // line 102
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/masonry.pkgd.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 99
+        // line 103
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/imagesloaded.pkgd.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 100
+        // line 104
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.fs.tipper.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 101
+        // line 105
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/mediaelement-and-player.min.js");
         echo "\"></script>
     <script src=\"";
-        // line 102
+        // line 106
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.validate.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 103
+        // line 107
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/theme.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 104
+        // line 108
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/sidebar-menu.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 105
+        // line 109
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/navigation.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 106
+        // line 110
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.singlePageNav.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 107
+        // line 111
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/contact-form.js");
         echo "\" type=\"text/javascript\"></script>
     <script type=\"text/javascript\" src=\"https://maps.googleapis.com/maps/api/js?sensor=false\"></script>
     <script type=\"text/javascript\" src=\"";
-        // line 109
+        // line 113
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/map.js");
         echo "\"></script>
 
@@ -270,7 +274,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 
     public function getDebugInfo()
     {
-        return array (  234 => 109,  229 => 107,  225 => 106,  221 => 105,  217 => 104,  213 => 103,  209 => 102,  205 => 101,  201 => 100,  197 => 99,  193 => 98,  189 => 97,  185 => 96,  181 => 95,  177 => 94,  173 => 93,  169 => 92,  165 => 91,  161 => 90,  157 => 89,  153 => 88,  149 => 87,  145 => 86,  142 => 85,  140 => 84,  102 => 49,  98 => 48,  71 => 24,  67 => 23,  63 => 22,  59 => 21,  55 => 20,  51 => 19,  47 => 18,  41 => 15,  37 => 14,  33 => 13,  19 => 1,);
+        return array (  238 => 113,  233 => 111,  229 => 110,  225 => 109,  221 => 108,  217 => 107,  213 => 106,  209 => 105,  205 => 104,  201 => 103,  197 => 102,  193 => 101,  189 => 100,  185 => 99,  181 => 98,  177 => 97,  173 => 96,  169 => 95,  165 => 94,  161 => 93,  157 => 92,  153 => 91,  149 => 90,  146 => 89,  144 => 88,  102 => 49,  98 => 48,  71 => 24,  67 => 23,  63 => 22,  59 => 21,  55 => 20,  51 => 19,  47 => 18,  41 => 15,  37 => 14,  33 => 13,  19 => 1,);
     }
 }
 /* <!DOCTYPE html>*/
@@ -320,8 +324,8 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 /*                 <!-- Logo -->*/
 /*                 <div class="logo">*/
 /*                     <a href="/">*/
-/*                         <img class="logo-light" src="{{'assets/img/logo-white.png'|theme}}" alt="Mazel" />*/
-/*                         <img class="logo-dark" src="{{'assets/img/logo-black.png'|theme}}" alt="Mazel" />*/
+/*                         <img class="logo-light" src="{{'assets/img/uma-white.png'|theme}}" alt="Mazel" />*/
+/*                         <img class="logo-dark" src="{{'assets/img/uma-black.png'|theme}}" alt="Mazel" />*/
 /*                     </a>*/
 /*                 </div>*/
 /*                 <!-- End Logo -->*/
@@ -331,6 +335,10 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 /*                 <!-- Navbar Navigation -->*/
 /*                 <div class="nav-menu singlepage-nav">*/
 /*                     <ul class="nav-menu-inner">*/
+/*                         <li>*/
+/*                             <a class="" href="/">Home</a>*/
+/* */
+/*                         </li>*/
 /*                         <li>*/
 /*                             <a class="" href="#about">About</a>*/
 /* */
@@ -347,7 +355,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 /*                         </li>*/
 /*                         */
 /*                         <li>*/
-/*                             <a class="" href="#contact-section">Contact</a>*/
+/*                             <a class="" href="#contact-info">Contact</a>*/
 /*                         </li>*/
 /*                     </ul>*/
 /*                 </div>*/
