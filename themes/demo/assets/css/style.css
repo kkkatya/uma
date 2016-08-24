@@ -4465,3 +4465,7 @@ ul.project-detail-block, .project-detail-block ul {
         visibility: hidden;
     }
 }
+
+#inexanmo h2, #inexanmo h5, #inexanmo i {
+color: #fff;
+}
