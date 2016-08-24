@@ -1,4 +1,4 @@
-1472062913a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6768:"title = "Home"
+1472063171a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6774:"title = "Home"
 url = "/"
 layout = "umagraphics"
 is_hidden = 0
@@ -14,7 +14,7 @@ is_hidden = 0
                         <div class="intro-content-inner">
                             <h2 class="h2">Welcome to Umagraphics</h2>
                             <div class="row">
-                                <p class="lead col-md-6 col-md-offset-3">totam rem aperiam, eaque ipsa quae ab illo invento</p>
+                                <p class="lead col-md-6 col-md-offset-3">Il lavoro è la nostra passione, noi viviamo di passione</p>
                             </div>
                             <br>
                         </div>
@@ -128,7 +128,7 @@ is_hidden = 0
         <!-- End Scroll Top -->
 
     </div>
-    <!-- Site Wraper End -->";s:5:"mtime";i:1472061708;s:6:"markup";s:6698:"<!-- CONTENT --------------------------------------------------------------------------------->
+    <!-- Site Wraper End -->";s:5:"mtime";i:1472062569;s:6:"markup";s:6704:"<!-- CONTENT --------------------------------------------------------------------------------->
 
         <!-- Intro -->
         <section id="intro" class="intro">
@@ -139,7 +139,7 @@ is_hidden = 0
                         <div class="intro-content-inner">
                             <h2 class="h2">Welcome to Umagraphics</h2>
                             <div class="row">
-                                <p class="lead col-md-6 col-md-offset-3">totam rem aperiam, eaque ipsa quae ab illo invento</p>
+                                <p class="lead col-md-6 col-md-offset-3">Il lavoro è la nostra passione, noi viviamo di passione</p>
                             </div>
                             <br>
                         </div>

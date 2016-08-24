@@ -30,7 +30,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                         <div class=\"intro-content-inner\">
                             <h2 class=\"h2\">Welcome to Umagraphics</h2>
                             <div class=\"row\">
-                                <p class=\"lead col-md-6 col-md-offset-3\">totam rem aperiam, eaque ipsa quae ab illo invento</p>
+                                <p class=\"lead col-md-6 col-md-offset-3\">Il lavoro è la nostra passione, noi viviamo di passione</p>
                             </div>
                             <br>
                         </div>
@@ -173,7 +173,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
 /*                         <div class="intro-content-inner">*/
 /*                             <h2 class="h2">Welcome to Umagraphics</h2>*/
 /*                             <div class="row">*/
-/*                                 <p class="lead col-md-6 col-md-offset-3">totam rem aperiam, eaque ipsa quae ab illo invento</p>*/
+/*                                 <p class="lead col-md-6 col-md-offset-3">Il lavoro è la nostra passione, noi viviamo di passione</p>*/
 /*                             </div>*/
 /*                             <br>*/
 /*                         </div>*/
