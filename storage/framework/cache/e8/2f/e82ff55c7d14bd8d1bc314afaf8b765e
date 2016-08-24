@@ -1,4 +1,4 @@
-1472058308a:1:{s:15:"umagraphics.htm";a:6:{s:8:"fileName";s:15:"umagraphics.htm";s:7:"content";s:6498:"==
+1472062913a:1:{s:15:"umagraphics.htm";a:6:{s:8:"fileName";s:15:"umagraphics.htm";s:7:"content";s:6615:"==
 <!DOCTYPE html>
 <html>
 <head>
@@ -57,30 +57,35 @@
                 <!-- Navbar Navigation -->
                 <div class="nav-menu">
                     <ul class="nav-menu-inner">
+                    <li>
+                        <a class="menu-has-sub" href="">Portfolio <i class="fa fa-angle-down"></i></a>
+                        <ul class="sub-dropdown dropdown">
+                            <li><a href="/interiors">Interiors</a></li>
+                            <li><a href="/exteriors">Exteriors</a></li>
+                            <li><a href="/animations">Amimations</a></li>
+                            <li><a href="/modeling">Modeling</a></li>
+                        </ul>
+                    </li>
+                    </ul>
+                </div>
+                <div class="nav-menu singlepage-nav">
+                    <ul class="nav-menu-inner">
+                        
                         <li>
-                            <a class="" href="/">Home</a>
+                            <a class="" href="/#about">About</a>
 
                         </li>
                         <li>
-                            <a class="" href="#about">About</a>
-
-                        </li>
-                        <li>
-                            <a class="menu-has-sub" href="#Portfolio">Portfolio <i class="fa fa-angle-down"></i></a>
-                                <ul class="sub-dropdown dropdown">
-                                        <li><a href="/interiors">Interiors</a></li>
-                                        <li><a href="/exteriors">Exteriors</a></li>
-                                        <li><a href="/animations">Amimations</a></li>
-                                        <li><a href="/modeling">Modeling</a></li>
-                                    </ul>
+                            <a class="" href="/#service">Work</a>
 
                         </li>
                         
                         <li>
-                            <a class="" href="#contact-info">Contact</a>
+                            <a class="" href="/#contact-info">Contact</a>
                         </li>
                     </ul>
                 </div>
+                
                 <!-- End Navbar Navigation -->
 
             </div>
@@ -134,7 +139,7 @@
     </script>
 
 </body>
-</html>";s:5:"mtime";i:1472054860;s:6:"markup";s:6494:"<!DOCTYPE html>
+</html>";s:5:"mtime";i:1472061624;s:6:"markup";s:6611:"<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -192,30 +197,35 @@
                 <!-- Navbar Navigation -->
                 <div class="nav-menu">
                     <ul class="nav-menu-inner">
+                    <li>
+                        <a class="menu-has-sub" href="">Portfolio <i class="fa fa-angle-down"></i></a>
+                        <ul class="sub-dropdown dropdown">
+                            <li><a href="/interiors">Interiors</a></li>
+                            <li><a href="/exteriors">Exteriors</a></li>
+                            <li><a href="/animations">Amimations</a></li>
+                            <li><a href="/modeling">Modeling</a></li>
+                        </ul>
+                    </li>
+                    </ul>
+                </div>
+                <div class="nav-menu singlepage-nav">
+                    <ul class="nav-menu-inner">
+                        
                         <li>
-                            <a class="" href="/">Home</a>
+                            <a class="" href="/#about">About</a>
 
                         </li>
                         <li>
-                            <a class="" href="#about">About</a>
-
-                        </li>
-                        <li>
-                            <a class="menu-has-sub" href="#Portfolio">Portfolio <i class="fa fa-angle-down"></i></a>
-                                <ul class="sub-dropdown dropdown">
-                                        <li><a href="/interiors">Interiors</a></li>
-                                        <li><a href="/exteriors">Exteriors</a></li>
-                                        <li><a href="/animations">Amimations</a></li>
-                                        <li><a href="/modeling">Modeling</a></li>
-                                    </ul>
+                            <a class="" href="/#service">Work</a>
 
                         </li>
                         
                         <li>
-                            <a class="" href="#contact-info">Contact</a>
+                            <a class="" href="/#contact-info">Contact</a>
                         </li>
                     </ul>
                 </div>
+                
                 <!-- End Navbar Navigation -->
 
             </div>

@@ -110,131 +110,136 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
                 <!-- Navbar Navigation -->
                 <div class=\"nav-menu\">
                     <ul class=\"nav-menu-inner\">
+                    <li>
+                        <a class=\"menu-has-sub\" href=\"\">Portfolio <i class=\"fa fa-angle-down\"></i></a>
+                        <ul class=\"sub-dropdown dropdown\">
+                            <li><a href=\"/interiors\">Interiors</a></li>
+                            <li><a href=\"/exteriors\">Exteriors</a></li>
+                            <li><a href=\"/animations\">Amimations</a></li>
+                            <li><a href=\"/modeling\">Modeling</a></li>
+                        </ul>
+                    </li>
+                    </ul>
+                </div>
+                <div class=\"nav-menu singlepage-nav\">
+                    <ul class=\"nav-menu-inner\">
+                        
                         <li>
-                            <a class=\"\" href=\"/\">Home</a>
+                            <a class=\"\" href=\"/#about\">About</a>
 
                         </li>
                         <li>
-                            <a class=\"\" href=\"#about\">About</a>
-
-                        </li>
-                        <li>
-                            <a class=\"menu-has-sub\" href=\"#Portfolio\">Portfolio <i class=\"fa fa-angle-down\"></i></a>
-                                <ul class=\"sub-dropdown dropdown\">
-                                        <li><a href=\"/interiors\">Interiors</a></li>
-                                        <li><a href=\"/exteriors\">Exteriors</a></li>
-                                        <li><a href=\"/animations\">Amimations</a></li>
-                                        <li><a href=\"/modeling\">Modeling</a></li>
-                                    </ul>
+                            <a class=\"\" href=\"/#service\">Work</a>
 
                         </li>
                         
                         <li>
-                            <a class=\"\" href=\"#contact-info\">Contact</a>
+                            <a class=\"\" href=\"/#contact-info\">Contact</a>
                         </li>
                     </ul>
                 </div>
+                
                 <!-- End Navbar Navigation -->
 
             </div>
         </header>
     
     ";
-        // line 88
+        // line 93
         echo $this->env->getExtension('CMS')->pageFunction();
-        // line 89
+        // line 94
         echo "    
     <script src=\"";
-        // line 90
+        // line 95
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/jquery-1.11.2.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 91
+        // line 96
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.easing.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 92
+        // line 97
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/jquery-ui.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 93
+        // line 98
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/bootstrap.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 94
+        // line 99
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.flexslider.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 95
+        // line 100
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.fitvids.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 96
+        // line 101
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.viewportchecker.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 97
+        // line 102
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.stellar.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 98
+        // line 103
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/wow.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 99
+        // line 104
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.colorbox-min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 100
+        // line 105
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/owl.carousel.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 101
+        // line 106
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/isotope.pkgd.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 102
+        // line 107
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/masonry.pkgd.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 103
+        // line 108
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/imagesloaded.pkgd.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 104
+        // line 109
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.fs.tipper.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 105
+        // line 110
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/mediaelement-and-player.min.js");
         echo "\"></script>
     <script src=\"";
-        // line 106
+        // line 111
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.validate.min.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 107
+        // line 112
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/theme.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 108
+        // line 113
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/sidebar-menu.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 109
+        // line 114
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/navigation.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 110
+        // line 115
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/plugin/jquery.singlePageNav.js");
         echo "\" type=\"text/javascript\"></script>
     <script src=\"";
-        // line 111
+        // line 116
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/contact-form.js");
         echo "\" type=\"text/javascript\"></script>
     <script type=\"text/javascript\" src=\"https://maps.googleapis.com/maps/api/js?sensor=false\"></script>
     <script type=\"text/javascript\" src=\"";
-        // line 113
+        // line 118
         echo $this->env->getExtension('CMS')->themeFilter("assets/js/map.js");
         echo "\"></script>
 
@@ -274,7 +279,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 
     public function getDebugInfo()
     {
-        return array (  238 => 113,  233 => 111,  229 => 110,  225 => 109,  221 => 108,  217 => 107,  213 => 106,  209 => 105,  205 => 104,  201 => 103,  197 => 102,  193 => 101,  189 => 100,  185 => 99,  181 => 98,  177 => 97,  173 => 96,  169 => 95,  165 => 94,  161 => 93,  157 => 92,  153 => 91,  149 => 90,  146 => 89,  144 => 88,  102 => 49,  98 => 48,  71 => 24,  67 => 23,  63 => 22,  59 => 21,  55 => 20,  51 => 19,  47 => 18,  41 => 15,  37 => 14,  33 => 13,  19 => 1,);
+        return array (  243 => 118,  238 => 116,  234 => 115,  230 => 114,  226 => 113,  222 => 112,  218 => 111,  214 => 110,  210 => 109,  206 => 108,  202 => 107,  198 => 106,  194 => 105,  190 => 104,  186 => 103,  182 => 102,  178 => 101,  174 => 100,  170 => 99,  166 => 98,  162 => 97,  158 => 96,  154 => 95,  151 => 94,  149 => 93,  102 => 49,  98 => 48,  71 => 24,  67 => 23,  63 => 22,  59 => 21,  55 => 20,  51 => 19,  47 => 18,  41 => 15,  37 => 14,  33 => 13,  19 => 1,);
     }
 }
 /* <!DOCTYPE html>*/
@@ -335,30 +340,35 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 /*                 <!-- Navbar Navigation -->*/
 /*                 <div class="nav-menu">*/
 /*                     <ul class="nav-menu-inner">*/
+/*                     <li>*/
+/*                         <a class="menu-has-sub" href="">Portfolio <i class="fa fa-angle-down"></i></a>*/
+/*                         <ul class="sub-dropdown dropdown">*/
+/*                             <li><a href="/interiors">Interiors</a></li>*/
+/*                             <li><a href="/exteriors">Exteriors</a></li>*/
+/*                             <li><a href="/animations">Amimations</a></li>*/
+/*                             <li><a href="/modeling">Modeling</a></li>*/
+/*                         </ul>*/
+/*                     </li>*/
+/*                     </ul>*/
+/*                 </div>*/
+/*                 <div class="nav-menu singlepage-nav">*/
+/*                     <ul class="nav-menu-inner">*/
+/*                         */
 /*                         <li>*/
-/*                             <a class="" href="/">Home</a>*/
+/*                             <a class="" href="/#about">About</a>*/
 /* */
 /*                         </li>*/
 /*                         <li>*/
-/*                             <a class="" href="#about">About</a>*/
-/* */
-/*                         </li>*/
-/*                         <li>*/
-/*                             <a class="menu-has-sub" href="#Portfolio">Portfolio <i class="fa fa-angle-down"></i></a>*/
-/*                                 <ul class="sub-dropdown dropdown">*/
-/*                                         <li><a href="/interiors">Interiors</a></li>*/
-/*                                         <li><a href="/exteriors">Exteriors</a></li>*/
-/*                                         <li><a href="/animations">Amimations</a></li>*/
-/*                                         <li><a href="/modeling">Modeling</a></li>*/
-/*                                     </ul>*/
+/*                             <a class="" href="/#service">Work</a>*/
 /* */
 /*                         </li>*/
 /*                         */
 /*                         <li>*/
-/*                             <a class="" href="#contact-info">Contact</a>*/
+/*                             <a class="" href="/#contact-info">Contact</a>*/
 /*                         </li>*/
 /*                     </ul>*/
 /*                 </div>*/
+/*                 */
 /*                 <!-- End Navbar Navigation -->*/
 /* */
 /*             </div>*/

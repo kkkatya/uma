@@ -55,9 +55,14 @@
 
 
                 <!-- Navbar Navigation -->
-                <div class="nav-menu">
+                <div class="nav-menu singlepage-nav">
                     <ul class="nav-menu-inner">
-                    <li>
+                        
+                        <li>
+                            <a class="" href="/">Home</a>
+
+                        </li>
+                        <li>
                         <a class="menu-has-sub" href="">Portfolio <i class="fa fa-angle-down"></i></a>
                         <ul class="sub-dropdown dropdown">
                             <li><a href="/interiors">Interiors</a></li>
@@ -66,23 +71,6 @@
                             <li><a href="/modeling">Modeling</a></li>
                         </ul>
                     </li>
-                    </ul>
-                </div>
-                <div class="nav-menu singlepage-nav">
-                    <ul class="nav-menu-inner">
-                        
-                        <li>
-                            <a class="" href="/#about">About</a>
-
-                        </li>
-                        <li>
-                            <a class="" href="/#service">Work</a>
-
-                        </li>
-                        
-                        <li>
-                            <a class="" href="/#contact-info">Contact</a>
-                        </li>
                     </ul>
                 </div>
                 
@@ -117,26 +105,6 @@
     <script src="{{'assets/js/contact-form.js'|theme}}" type="text/javascript"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
     <script type="text/javascript" src="{{'assets/js/map.js'|theme}}"></script>
-
-    <script type="text/javascript">
-        //  Onepage Nav Elements
-        $('.singlepage-nav').singlePageNav({
-            offset: 0,
-            filter: ':not(.external)',
-            updateHash: true,
-            currentClass: 'current',
-            easing: 'swing',
-            speed: 750,
-            beforeStart: function () {
-                if ($(window).width() < 991) {
-                    $('.singlepage-nav > ul').hide();
-                };
-            },
-            onComplete: function () {
-                console.log('done scrolling');
-            }
-        });
-    </script>
 
 </body>
 </html>
