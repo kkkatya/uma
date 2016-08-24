@@ -108,7 +108,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 
 
                 <!-- Navbar Navigation -->
-                <div class=\"nav-menu singlepage-nav\">
+                <div class=\"nav-menu\">
                     <ul class=\"nav-menu-inner\">
                         <li>
                             <a class=\"\" href=\"/\">Home</a>
@@ -336,7 +336,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 /* */
 /* */
 /*                 <!-- Navbar Navigation -->*/
-/*                 <div class="nav-menu singlepage-nav">*/
+/*                 <div class="nav-menu">*/
 /*                     <ul class="nav-menu-inner">*/
 /*                         <li>*/
 /*                             <a class="" href="/">Home</a>*/

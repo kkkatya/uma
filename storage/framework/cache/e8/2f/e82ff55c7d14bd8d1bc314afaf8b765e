@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1472053852a:1:{s:15:"umagraphics.htm";a:6:{s:8:"fileName";s:15:"umagraphics.htm";s:7:"content";s:6524:"==
+=======
+1472054904a:1:{s:15:"umagraphics.htm";a:6:{s:8:"fileName";s:15:"umagraphics.htm";s:7:"content";s:6498:"==
+>>>>>>> 2f6b34c82cb0ecf66eee6aea310537cd2ba9dd2e
 <!DOCTYPE html>
 <html>
 <head>
@@ -55,7 +59,7 @@
 
 
                 <!-- Navbar Navigation -->
-                <div class="nav-menu singlepage-nav">
+                <div class="nav-menu">
                     <ul class="nav-menu-inner">
                         <li>
                             <a class="" href="/">Home</a>
@@ -134,7 +138,11 @@
     </script>
 
 </body>
+<<<<<<< HEAD
 </html>";s:5:"mtime";i:1472053248;s:6:"markup";s:6520:"<!DOCTYPE html>
+=======
+</html>";s:5:"mtime";i:1472054302;s:6:"markup";s:6494:"<!DOCTYPE html>
+>>>>>>> 2f6b34c82cb0ecf66eee6aea310537cd2ba9dd2e
 <html>
 <head>
     <meta charset="utf-8" />
@@ -190,7 +198,7 @@
 
 
                 <!-- Navbar Navigation -->
-                <div class="nav-menu singlepage-nav">
+                <div class="nav-menu">
                     <ul class="nav-menu-inner">
                         <li>
                             <a class="" href="/">Home</a>
