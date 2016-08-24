@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-1472053852a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6878:"title = "home"
-=======
-1472054693a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6892:"title = "home"
->>>>>>> 2f6b34c82cb0ecf66eee6aea310537cd2ba9dd2e
+1472058308a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6892:"title = "home"
 url = "/"
 layout = "umagraphics"
 is_hidden = 0
@@ -132,11 +128,7 @@ is_hidden = 0
         <!-- End Scroll Top -->
 
     </div>
-<<<<<<< HEAD
-    <!-- Site Wraper End -->";s:5:"mtime";i:1472052458;s:6:"markup";s:6808:"<!-- CONTENT --------------------------------------------------------------------------------->
-=======
-    <!-- Site Wraper End -->";s:5:"mtime";i:1472054080;s:6:"markup";s:6822:"<!-- CONTENT --------------------------------------------------------------------------------->
->>>>>>> 2f6b34c82cb0ecf66eee6aea310537cd2ba9dd2e
+    <!-- Site Wraper End -->";s:5:"mtime";i:1472054860;s:6:"markup";s:6822:"<!-- CONTENT --------------------------------------------------------------------------------->
 
         <!-- Intro -->
         <section id="intro" class="intro">

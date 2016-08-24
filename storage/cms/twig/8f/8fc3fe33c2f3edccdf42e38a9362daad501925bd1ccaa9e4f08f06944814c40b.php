@@ -121,10 +121,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
                         <li>
                             <a class=\"menu-has-sub\" href=\"#Portfolio\">Portfolio <i class=\"fa fa-angle-down\"></i></a>
                                 <ul class=\"sub-dropdown dropdown\">
-                                        <li><a href=\"";
-        // line 70
-        echo $this->env->getExtension('CMS')->pageFilter("interiors");
-        echo "\">Interiors</a></li>
+                                        <li><a href=\"/interiors\">Interiors</a></li>
                                         <li><a href=\"/exteriors\">Exteriors</a></li>
                                         <li><a href=\"/animations\">Amimations</a></li>
                                         <li><a href=\"/modeling\">Modeling</a></li>
@@ -277,7 +274,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 
     public function getDebugInfo()
     {
-        return array (  241 => 113,  236 => 111,  232 => 110,  228 => 109,  224 => 108,  220 => 107,  216 => 106,  212 => 105,  208 => 104,  204 => 103,  200 => 102,  196 => 101,  192 => 100,  188 => 99,  184 => 98,  180 => 97,  176 => 96,  172 => 95,  168 => 94,  164 => 93,  160 => 92,  156 => 91,  152 => 90,  149 => 89,  147 => 88,  126 => 70,  102 => 49,  98 => 48,  71 => 24,  67 => 23,  63 => 22,  59 => 21,  55 => 20,  51 => 19,  47 => 18,  41 => 15,  37 => 14,  33 => 13,  19 => 1,);
+        return array (  238 => 113,  233 => 111,  229 => 110,  225 => 109,  221 => 108,  217 => 107,  213 => 106,  209 => 105,  205 => 104,  201 => 103,  197 => 102,  193 => 101,  189 => 100,  185 => 99,  181 => 98,  177 => 97,  173 => 96,  169 => 95,  165 => 94,  161 => 93,  157 => 92,  153 => 91,  149 => 90,  146 => 89,  144 => 88,  102 => 49,  98 => 48,  71 => 24,  67 => 23,  63 => 22,  59 => 21,  55 => 20,  51 => 19,  47 => 18,  41 => 15,  37 => 14,  33 => 13,  19 => 1,);
     }
 }
 /* <!DOCTYPE html>*/
@@ -349,7 +346,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 /*                         <li>*/
 /*                             <a class="menu-has-sub" href="#Portfolio">Portfolio <i class="fa fa-angle-down"></i></a>*/
 /*                                 <ul class="sub-dropdown dropdown">*/
-/*                                         <li><a href="{{ 'interiors'|page}}">Interiors</a></li>*/
+/*                                         <li><a href="/interiors">Interiors</a></li>*/
 /*                                         <li><a href="/exteriors">Exteriors</a></li>*/
 /*                                         <li><a href="/animations">Amimations</a></li>*/
 /*                                         <li><a href="/modeling">Modeling</a></li>*/
