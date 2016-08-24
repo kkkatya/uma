@@ -95,7 +95,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
                     <a href=\"/\">
                         <img class=\"logo-light\" src=\"";
         // line 48
-        echo $this->env->getExtension('CMS')->themeFilter("assets/img/uma-white.png");
+        echo $this->env->getExtension('CMS')->themeFilter("assets/img/uma-black.png");
         echo "\" alt=\"Mazel\" />
                         <img class=\"logo-dark\" src=\"";
         // line 49
@@ -324,7 +324,7 @@ class __TwigTemplate_0eb12ac50defad5148f6081193f558903f9e2675ae9008b88e65d446df7
 /*                 <!-- Logo -->*/
 /*                 <div class="logo">*/
 /*                     <a href="/">*/
-/*                         <img class="logo-light" src="{{'assets/img/uma-white.png'|theme}}" alt="Mazel" />*/
+/*                         <img class="logo-light" src="{{'assets/img/uma-black.png'|theme}}" alt="Mazel" />*/
 /*                         <img class="logo-dark" src="{{'assets/img/uma-black.png'|theme}}" alt="Mazel" />*/
 /*                     </a>*/
 /*                 </div>*/

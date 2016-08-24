@@ -1,4 +1,4 @@
-1471689855a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6955:"title = "home"
+1472039596a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:6878:"title = "home"
 url = "/"
 layout = "umagraphics"
 is_hidden = 0
@@ -8,13 +8,13 @@ is_hidden = 0
         <!-- Intro -->
         <section id="intro" class="intro">
             <!-- Static Intro -->
-            <div class="bg-image overlay-dark dark-bg bg-fixed" data-background-img="{{'assets/img/bg.jpg'|theme}}">
+            <div class="bg-image dark-bg bg-fixed" data-background-img="{{'assets/img/bg.jpg'|theme}}">
                 <div class="js-fullscreen-height container">
                     <div class="intro-content">
                         <div class="intro-content-inner">
                             <h2 class="h2">Welcome to Umagraphics</h2>
                             <div class="row">
-                                <p class="lead col-md-6 col-md-offset-3">e natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo invento</p>
+                                <p class="lead col-md-6 col-md-offset-3">totam rem aperiam, eaque ipsa quae ab illo invento</p>
                             </div>
                             <br>
                         </div>
@@ -128,18 +128,18 @@ is_hidden = 0
         <!-- End Scroll Top -->
 
     </div>
-    <!-- Site Wraper End -->";s:5:"mtime";i:1471688251;s:6:"markup";s:6885:"<!-- CONTENT --------------------------------------------------------------------------------->
+    <!-- Site Wraper End -->";s:5:"mtime";i:1471693289;s:6:"markup";s:6808:"<!-- CONTENT --------------------------------------------------------------------------------->
 
         <!-- Intro -->
         <section id="intro" class="intro">
             <!-- Static Intro -->
-            <div class="bg-image overlay-dark dark-bg bg-fixed" data-background-img="{{'assets/img/bg.jpg'|theme}}">
+            <div class="bg-image dark-bg bg-fixed" data-background-img="{{'assets/img/bg.jpg'|theme}}">
                 <div class="js-fullscreen-height container">
                     <div class="intro-content">
                         <div class="intro-content-inner">
                             <h2 class="h2">Welcome to Umagraphics</h2>
                             <div class="row">
-                                <p class="lead col-md-6 col-md-offset-3">e natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo invento</p>
+                                <p class="lead col-md-6 col-md-offset-3">totam rem aperiam, eaque ipsa quae ab illo invento</p>
                             </div>
                             <br>
                         </div>

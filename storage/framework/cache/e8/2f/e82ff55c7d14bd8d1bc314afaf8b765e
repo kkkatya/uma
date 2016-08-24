@@ -1,4 +1,4 @@
-1471690417a:1:{s:15:"umagraphics.htm";a:6:{s:8:"fileName";s:15:"umagraphics.htm";s:7:"content";s:6513:"==
+1472039596a:1:{s:15:"umagraphics.htm";a:6:{s:8:"fileName";s:15:"umagraphics.htm";s:7:"content";s:6513:"==
 <!DOCTYPE html>
 <html>
 <head>
@@ -46,7 +46,7 @@
                 <!-- Logo -->
                 <div class="logo">
                     <a href="/">
-                        <img class="logo-light" src="{{'assets/img/uma-white.png'|theme}}" alt="Mazel" />
+                        <img class="logo-light" src="{{'assets/img/uma-black.png'|theme}}" alt="Mazel" />
                         <img class="logo-dark" src="{{'assets/img/uma-black.png'|theme}}" alt="Mazel" />
                     </a>
                 </div>
@@ -134,7 +134,7 @@
     </script>
 
 </body>
-</html>";s:5:"mtime";i:1471689814;s:6:"markup";s:6509:"<!DOCTYPE html>
+</html>";s:5:"mtime";i:1471693104;s:6:"markup";s:6509:"<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -181,7 +181,7 @@
                 <!-- Logo -->
                 <div class="logo">
                     <a href="/">
-                        <img class="logo-light" src="{{'assets/img/uma-white.png'|theme}}" alt="Mazel" />
+                        <img class="logo-light" src="{{'assets/img/uma-black.png'|theme}}" alt="Mazel" />
                         <img class="logo-dark" src="{{'assets/img/uma-black.png'|theme}}" alt="Mazel" />
                     </a>
                 </div>

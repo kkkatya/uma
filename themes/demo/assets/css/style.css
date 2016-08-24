@@ -222,7 +222,7 @@ p {
 }
 
     .dark-bg h1, .dark-bg h2, .dark-bg h3, .dark-bg h4, .dark-bg h5, .dark-bg h6, .dark-bg p, .dark-bg .link, .dark-bg .container-icon, .dark-bg .page-icon-top {
-        color: #fff;
+        color: #000;
     }
 
         .dark-bg .link:hover, .link:hover {
@@ -1271,7 +1271,7 @@ form label.error {
         }
 
         .nav-menu ul.nav-menu-inner > li > a {
-            color: #fff;
+            color: #000;
         }
 
 .header-light .nav-menu ul.nav-menu-inner > li > a {

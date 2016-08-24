@@ -21,7 +21,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
         <!-- Intro -->
         <section id=\"intro\" class=\"intro\">
             <!-- Static Intro -->
-            <div class=\"bg-image overlay-dark dark-bg bg-fixed\" data-background-img=\"";
+            <div class=\"bg-image dark-bg bg-fixed\" data-background-img=\"";
         // line 6
         echo $this->env->getExtension('CMS')->themeFilter("assets/img/bg.jpg");
         echo "\">
@@ -30,7 +30,7 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
                         <div class=\"intro-content-inner\">
                             <h2 class=\"h2\">Welcome to Umagraphics</h2>
                             <div class=\"row\">
-                                <p class=\"lead col-md-6 col-md-offset-3\">e natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo invento</p>
+                                <p class=\"lead col-md-6 col-md-offset-3\">totam rem aperiam, eaque ipsa quae ab illo invento</p>
                             </div>
                             <br>
                         </div>
@@ -167,13 +167,13 @@ class __TwigTemplate_066f2b8f487a29e21931986f88e9fc79dd80304da76d45fd58beebabb30
 /*         <!-- Intro -->*/
 /*         <section id="intro" class="intro">*/
 /*             <!-- Static Intro -->*/
-/*             <div class="bg-image overlay-dark dark-bg bg-fixed" data-background-img="{{'assets/img/bg.jpg'|theme}}">*/
+/*             <div class="bg-image dark-bg bg-fixed" data-background-img="{{'assets/img/bg.jpg'|theme}}">*/
 /*                 <div class="js-fullscreen-height container">*/
 /*                     <div class="intro-content">*/
 /*                         <div class="intro-content-inner">*/
 /*                             <h2 class="h2">Welcome to Umagraphics</h2>*/
 /*                             <div class="row">*/
-/*                                 <p class="lead col-md-6 col-md-offset-3">e natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo invento</p>*/
+/*                                 <p class="lead col-md-6 col-md-offset-3">totam rem aperiam, eaque ipsa quae ab illo invento</p>*/
 /*                             </div>*/
 /*                             <br>*/
 /*                         </div>*/
